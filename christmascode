@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1>Christmas Time</h1>
+<hr/>
+
+<style>
+	ul{
+    
+    	display:block;
+        text-decoration:none;
+        list-style-type:none;
+        margin:0;
+        padding:0;
+        width:200px;
+    	
+    
+   }
+   
+   li a {
+   text-decoration:none;
+   display:block;
+   padding:8px 16px;
+   color:red;
+   border:solid black 2px;
+   border-radius:25px;
+   background-color:white;
+   }
+   
+   li a:hover{
+   		background-color:red;
+        color:blue;
+        text-align:center;
+        text-decoration:underline;
+   }
+   
+   h1:hover{
+   color:red;
+   }
+   
+   html{
+		background-image: url("https://image.freepik.com/free-vector/christmas-background_1048-6750.jpg");
+        background-repeat: no-repeat;
+  background-size: cover;
+     
+   }
+     
+   h1{
+   border:solid 5px width=200px;
+   border-radius:25px;
+   text-align:center;
+   font-family:impact;
+   font-size: 30px;
+   color:blue;
+   letter-spacing:6px;
+   text-decoration:underline;
+   text-shadow: 2px 2px black;
+   
+   }
+   .red{
+   
+   		float:right;
+        border:solid 5px;
+        width:200px;
+        height:100px;
+        text-align:center;
+        background-color:white;
+        position:absolute;
+   top:0;
+   right:0;
+   }
+   
+   .red:hover{
+   color:red;
+   
+   }
+   
+   img{
+   
+   float:right;
+   position:relative;
+   top:-309px;
+ 
+   }
+   
+</style>
+</head>
+
+
+<b>
+<ul>
+            <li><a href=" gt4htr">Navigation</a></li>
+            <li><a href=" gtrgtrg">Contact</a></li>
+            <li><a href=" r43rf3t">More about us</a></li>
+            <li><a href=" 54tg54t">Help</a></li>
+            <li><a href="regitrjgi">Dalton</a></li>
+            <li><a href="regitrjgi">Family</a></li>
+            <li><a href="regitrjgi">Pictures</a></li>
+            <li><a href="regitrjgi">Music</a></li>
+</ul>
+</b>
+<img src="https://i.pinimg.com/originals/92/46/7f/92467fa896bcea3f8c44265358d0b5a5.png" alt="Santa" width="230"/>
+<body>
+<b>
+<p>
+Today was Christmas. It was good day, even though I'm in Enterprise, Alabama. I'm going back to Florida soon which is going to be amazing, and I'm very excited to see everyone and my mom. I need this to be long so that I can make the page bigger for more practice and add more details and stuff.
+</p>
+</b>
+<style>
+p{
+color:black;
+text-decoration:underline;
+
+}
+p:hover{
+color:Red;
+}
+</style>
+
+
+</body>
